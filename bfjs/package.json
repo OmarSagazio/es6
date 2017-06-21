@@ -1,0 +1,17 @@
+{
+  "name": "bfjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "babel-node functional-playground/play.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015-node6": "^0.4.0"
+  }
+}
